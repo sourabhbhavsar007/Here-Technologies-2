@@ -19,9 +19,9 @@ candidates with "willi" : William Gates
 
 ## Implementation :
 
-I have used "### Trie" data structure to implement the Phonebook. 
+I have used "**Trie**" data structure to implement the Phonebook. 
 
-Trie is an ordered tree data structure that uses strings as keys. Unlike Binary Trees, Tries do not store keys associated with the node. The key is actually determined based on the position of the node on the tree. Any descendants of a node shares a common prefix of the key string associated with that node. Hence, trie is also called as Prefix Tree. The word "trie" comes from Retrieval, and it is pronounced as "try". To read more about Trie click here. Since this data structure is a prefix tree, trie is commonly used in Dictionaries, Phone Directories and matching algorithms. Trie is best-suited for phone directory (any matching application for that matter) because it is very efficient in matching strings.
+**Trie** is an ordered tree data structure that uses strings as keys. Unlike Binary Trees, Tries do not store keys associated with the node. The key is actually determined based on the position of the node on the tree. Any descendants of a node shares a common prefix of the key string associated with that node. Hence, trie is also called as Prefix Tree. Since this data structure is a prefix tree, trie is commonly used in Dictionaries, Phone Directories and matching algorithms. Trie is best-suited for phone directory (any matching application for that matter) because it is very efficient in matching strings.
 
 
 ### Screenshot : The application works fine, and gives result as expected.
@@ -32,9 +32,9 @@ Query String : Will
 
 Output : 
 
-Suggestions based on w are 
-warren buffet
-will smith
+  Suggestions based on w are 
+  warren buffet
+  will smith
 william gates
 Suggestions based on wi are 
 will smith

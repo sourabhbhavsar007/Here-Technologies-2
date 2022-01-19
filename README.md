@@ -17,9 +17,9 @@ candidates with "will" : William Gates, Will Smith
 candidates with "willi" : William Gates
 
 
-Implementation :
+## Implementation :
 
-I have used "Trie" data structure to implement the Phonebook. 
+I have used "### Trie" data structure to implement the Phonebook. 
 
 Trie is an ordered tree data structure that uses strings as keys. Unlike Binary Trees, Tries do not store keys associated with the node. The key is actually determined based on the position of the node on the tree. Any descendants of a node shares a common prefix of the key string associated with that node. Hence, trie is also called as Prefix Tree. The word "trie" comes from Retrieval, and it is pronounced as "try". To read more about Trie click here. Since this data structure is a prefix tree, trie is commonly used in Dictionaries, Phone Directories and matching algorithms. Trie is best-suited for phone directory (any matching application for that matter) because it is very efficient in matching strings.
 
@@ -51,3 +51,4 @@ william gates
 
 
 
+<img width="1792" alt="Task2_Output" src="https://user-images.githubusercontent.com/30754286/150232727-600eb27d-2ba1-4bb1-9fb4-6959454f0d5d.png">

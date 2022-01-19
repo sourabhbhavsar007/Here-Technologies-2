@@ -32,10 +32,10 @@ Query String : Will
 
 Output : 
 
-Suggestions based on w are.   
-warren buffet. 
-will smith. 
-william gates.   
+Suggestions based on w are   
+warren buffet 
+will smith 
+william gates   
 Suggestions based on wi are.    
 will smith.   
 william gates.   

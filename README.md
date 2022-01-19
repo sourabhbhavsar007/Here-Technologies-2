@@ -36,15 +36,15 @@ Suggestions based on w are
 warren buffet 
 will smith 
 william gates   
-Suggestions based on wi are.    
-will smith.   
-william gates.   
-Suggestions based on wil are.    
-will smith. 
-william gates. 
-Suggestions based on will are.  
-will smith. 
-william gates. 
+Suggestions based on wi are    
+will smith   
+william gates   
+Suggestions based on wil are    
+will smith 
+william gates 
+Suggestions based on will are  
+will smith 
+william gates 
 
 
 

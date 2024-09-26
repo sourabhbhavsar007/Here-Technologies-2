@@ -1,6 +1,3 @@
-# Here-Technologies-2
-
-## Task 2 :
 
 ### Given list of contacts in your address book, please implement a Java search function. 
 
